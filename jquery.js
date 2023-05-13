@@ -10363,18 +10363,3 @@
 
     return jQuery;
 } );
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-GoogleMaps/jQuery.js at master · shradha-khapra/GoogleMaps · GitHub
